@@ -1,0 +1,4 @@
+---
+- src: https://github.com/serialdoom/private-internet-access
+- src: https://github.com/serialdoom/transmission
+- src: https://github.com/serialdoom/flexget
